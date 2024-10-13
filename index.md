@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, y'all! Welcome to my blog 😁
 
-Maybe say a some things about yourself.
+I'm 21 years old and located in Tiohtià:ke (colonially known as Montréal).
 
-Or maybe what you plan to blog about.
+I'll probably end up blogging about too many things: philosophy, books, learning French, and other stuff.
