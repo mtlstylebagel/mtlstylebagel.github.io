@@ -1,6 +1,6 @@
 title: "Florens' Blog"
 author: "Florens"
-description: "A place for me to talk about what is on my mind or collect things I like. \n Blog template by [Chad Baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "A place for me to talk about what is on my mind or collect things I like. \n Blog template by [Chad Baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 output:
   pdf_document: default
   html_document: default
