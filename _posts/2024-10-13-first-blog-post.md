@@ -17,7 +17,7 @@ I still have an <a href="https://www.instagram.com/mtlstylebagel/">Instagram acc
 
 ## What will I talk about?
 
-I would like to write well-reserched, long-form articles here and there. I would like to post my undergraduate thesis here. I'm currently polishing it for grad school applications, but when I'm done, I hope to give others the opportunity to read it. When that's done, I hope read a bit more about sex-negative feminism and theories of autonomy for an upcoming project. No promises that anything will manifest, but I hope so.  
+I would like to write well-reserched, long-form articles here and there. I would like to post my undergraduate thesis here. I'm currently polishing it for grad school applications, but when I'm done, I hope to give others the opportunity to read it. When that's done, I hope to read a bit more about sex-negative feminism and theories of autonomy for an upcoming project. No promises that anything will manifest, but I hope so.  
 
 I would also like to write shorter essays on whatever's on my mind. These may or may not contain citations or arguments. I need to stop associating writing with philosophy and being graded, and I think this would be a good way to break that association.
 
