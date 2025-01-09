@@ -16,11 +16,4 @@ But enough talk. Here is exactly what I submitted. Judge it if you must.
 
 —Florens
 
-<embed src="FlorensSouzaWritingSample.pdf" width="800px" height="2100px" />
-<iframe
-    src="FlorensSouzaWritingSample.pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+<embed src="\file_name.pdf" width="800px" height="2100px" />
