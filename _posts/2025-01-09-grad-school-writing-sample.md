@@ -16,3 +16,4 @@ But enough talk. Here is exactly what I submitted. Judge it if you must.
 
 —Florens
 
+<embed src="FlorensSouzaWritingSample.pdf" width="800px" height="2100px" />
