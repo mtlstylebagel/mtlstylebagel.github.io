@@ -1,6 +1,6 @@
 ## First Blog Post
 
-<img src="/_assets/img/startBlog.jpg" alt="Kid staring frozen at a fork in the road. To their left is a wonderful castle and the their right
+<img src="../_assets/img/startBlog.jpg" alt="Kid staring frozen at a fork in the road. To their left is a wonderful castle and the their right
    is decrepit mansion. The kid is labeled 'Everyone in their 20s', the castle 'blogging', and the mansion 'podcasting'.">
 
 When I told my friend I was going to start a blog, he sent me the meme above. I had thought myself to be original. Clearly, I was wrong. Although I am less original than I had thought, I continued to make my blog.
